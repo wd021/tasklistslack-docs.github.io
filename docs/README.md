@@ -13,7 +13,7 @@ To install TaskList for your Slack team, click on the **`Add To Slack`** button 
 
 ### Add Tasks
 
-Use **`/task`** to add a task in Slack. Add tags to categorize them (**`@users`** and/or **`#topics`**).
+Use **`/task`** to add a task in Slack. Add tags to categorize them (**`@users`** and/or **`#tags`**).
 
 ```examples
 /task Discuss new design plans! @Allison @Dan #design
@@ -31,7 +31,7 @@ Use **`/list`** to view a list of all your tags.
 /list
 ```
 
-Use **`/list [@user/#topic]`** to view tasks for a specific tag.
+Use **`/list [@user/#tag]`** to view tasks for a specific tag.
 
 ```examples
 /list @everyone
